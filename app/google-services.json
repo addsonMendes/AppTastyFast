@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "954249724226",
+    "firebase_url": "https://apptastyfast.firebaseio.com",
+    "project_id": "apptastyfast",
+    "storage_bucket": "apptastyfast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954249724226:android:92bb335d88438e09",
+        "android_client_info": {
+          "package_name": "br.com.tastyfast.tastyfastapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954249724226-9q6a870j32q8p8n4tu21vu59mmgneog5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tastyfast.tastyfastapp",
+            "certificate_hash": "584c5cc4e5e3874d0da4f29ad8031139a87b3081"
+          }
+        },
+        {
+          "client_id": "954249724226-aq7pbmpa3prgj6gek4hr77n5217j632a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMhl6y8N72DuARHIa-fa6uVf6mMzb_XQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954249724226-aq7pbmpa3prgj6gek4hr77n5217j632a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954249724226:android:4eb3e2d0d46492d9",
+        "android_client_info": {
+          "package_name": "testereserva.reservarapida.tcc.com.br.testereserva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954249724226-neotiononk5grdo1vj8af8ho5ou6hlr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "testereserva.reservarapida.tcc.com.br.testereserva",
+            "certificate_hash": "584c5cc4e5e3874d0da4f29ad8031139a87b3081"
+          }
+        },
+        {
+          "client_id": "954249724226-aq7pbmpa3prgj6gek4hr77n5217j632a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMhl6y8N72DuARHIa-fa6uVf6mMzb_XQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954249724226-aq7pbmpa3prgj6gek4hr77n5217j632a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

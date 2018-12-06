@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.01"
+        android:id="@+id/txtLayResNomeRestaurante"
+        android:text="nomeRestaurante"
+        android:textColor="@color/Botoes"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:focusable="false"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.01"
+        android:id="@+id/txtLayResCidadeEstado"
+        android:text="cidadeEstado"
+        android:textColor="@color/Botoes"
+        android:textSize="18sp"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:focusable="false"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:id="@+id/imgLayResFotos"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:focusable="false" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtLayResTipoCulinaria"
+        android:text="tipoCulinaria"
+        android:textColor="@color/Botoes"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:focusable="false"
+        android:textSize="15sp"/>
+
+</LinearLayout>
